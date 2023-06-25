@@ -1,0 +1,6 @@
+[submodule "react-app"]
+	path = react-app
+	url = https://github.com/githubotoro/crypto-chai-web3-app
+[submodule "smart-contract"]
+	path = smart-contract
+	url = https://github.com/githubotoro/crypto-chai-smart-contract
